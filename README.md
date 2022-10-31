@@ -1,1 +1,1 @@
-# cproyeto-estudio-de-mercado-idi-2022-II
+# estudio-de-mercado-idi-2022-II
