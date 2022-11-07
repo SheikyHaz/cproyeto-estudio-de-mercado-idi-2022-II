@@ -96,6 +96,9 @@ StyleCopReport.xml
 # Virtual Enviroment
 .env
 
+# PDF Files
+*.pdf
+
 # Chutzpah Test files
 _Chutzpah*
 
